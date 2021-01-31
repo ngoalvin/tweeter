@@ -1,0 +1,31 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  /* align-items: center; */
+  justify-content: space-between;
+ 
+}
+
+
+.date {
+  margin-left: 1em;
+  font-size: medium;
+}
+
+.likes {
+  margin-right: 1em;
+  font-size: medium;
+}
+
+#flag {
+  width: 20px;
+}
+
+#heart {
+  width: 20px;
+}
+
+#retweet {
+  width: 20px;
+}
+

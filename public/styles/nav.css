@@ -1,0 +1,23 @@
+.nav-bar {
+  background-color: #4056A1;
+  height: 120px;
+  color: #ffffff;
+  font-size: xx-large;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.tweeter {
+  margin-left: 1.5em;
+  font-family: "Bungee";
+  font-size: xx-large;
+}
+
+.write-tweet {
+ margin: 1.5em;
+}
